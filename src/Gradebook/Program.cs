@@ -6,7 +6,7 @@ namespace Gradebook
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Dude!");
+            Console.WriteLine("Hello GitHub Actions!");
         }
     }
 }
