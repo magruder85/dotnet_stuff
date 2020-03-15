@@ -18,4 +18,4 @@ jobs:
       with:
         dotnet-version: 3.1.101
     - name: Build with dotnet
-      run: dotnet build --project .\gradebook\src\Gradebook --configuration Release
+      run: dotnet build .\gradebook\src\Gradebook --configuration Release
